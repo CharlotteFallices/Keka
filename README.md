@@ -1,41 +1,30 @@
 # Keka
-The macOS file archiver.
+一个简单的压缩软件
 
-Follow us on Twitter at [@kekaosx](https://twitter.com/kekaosx).
+作者的Twitter是[@kekaosx](https://twitter.com/kekaosx).
 
 ## Downloads
 
 ### Current version
 
-Go to the Keka website at https://www.keka.io to get the latest version.
-
-Also you can check the history of releases in the [Releases](https://github.com/aonez/Keka/releases) section.
+你可以在[官网](https://www.keka.io)下载最新版本或者从[Releases](releases)得到最近版本.
 
 ### Legacy versions
 
-You will find the updated list of legacy versions in the Keka website at https://www.keka.io/#legacy
+请访问<https://www.keka.io/#legacy>以下载以前的版本.
 
 ## What more to do here
 
-- [Issues](https://github.com/aonez/Keka/issues) - look for open ones, [create](https://github.com/aonez/Keka/issues/new) a new one.
-- [Wiki](https://github.com/aonez/Keka/wiki) - learn and share Keka knowledge.
-- [Releases](https://github.com/aonez/Keka/releases) - download an specific version.
-- [Translations](Translations/) - keep Keka multilingual and well spoken :)
-
-This repository is used mainly to take care of [Issues](https://github.com/aonez/Keka/issues) and have a collaborative [Wiki](https://github.com/aonez/Keka/wiki).
-
-If you have a problem or a request just search the [Issues](https://github.com/aonez/Keka/issues) for similar ones or [create](https://github.com/aonez/Keka/issues/new) a new one.
-
-If you'll like to chat and you think the [Issues](https://github.com/aonez/Keka/issues) section is not the right place, just head to the [Forum](https://forum.keka.io).
-
-Also head to [Releases](https://github.com/aonez/Keka/releases) if you need a concrete version not found on the [Keka website](https://www.keka.io).
+- 如果发现问题或是要提出建议,请查看现有的[Issue](issues)或者[创建](issues/new)一个新的.
+- 通过[Wiki](https://github.com/aonez/Keka/wiki)了解Keka.
+- 在[Releases](releases)下载其他您需要的版本.
 
 ### So, where is the source code
-Sadly, the source code of Keka 1.0 and newer will be not public due some issues in the past (this is [one of the reasons](http://trac.keka.io/ticket/14)).
+因为[某些原因](http://trac.keka.io/ticket/14),我们很遗憾地表示1.0版本后的Keka将不再开源.
 
 ### Legacy info
-Keka started in [SourceForge](http://sourceforge.net/projects/keka). It will be rarely updated and issues in the [Tickets](https://sourceforge.net/p/keka/_list/tickets) may be replied, but [Issues](https://github.com/aonez/Keka/issues) here is the main cannal.
+Keka最开始在[SourceForge](http://sourceforge.net/projects/keka),[Tickets](https://sourceforge.net/p/keka/_list/tickets)中的问题可能会得到答复,但我们主要使用[Issues](https://github.com/aonez/Keka/issues)
 
-Later on, thanks to [NETWORKREDUX](https://networkredux.com) and [Trac](https://trac.edgewall.org), the project gained its own [ticketing system](https://trac.keka.io). Due to spam and speed issues, it will be used no more. No new users, no new tickets. Use [Issues](https://github.com/aonez/Keka/issues) instead.
+后来,感谢[NETWORKREDUX](https://networkredux.com)和 [Trac](https://trac.edgewall.org), 这个项目有了自己的 [ticketing system](https://trac.keka.io).但因为速度和一些问题,我们现在使用 [Issues](https://github.com/aonez/Keka/issues)替代它.
+这里还有一些[文档](https://trac.keka.io/wiki/Doc),他们会被逐渐转移到[Wiki](https://github.com/aonez/Keka/wiki).
 
-There's also [some documentation](https://trac.keka.io/wiki/Doc) in the Keka trac that will be transferred over time here in the [Wiki](https://github.com/aonez/Keka/wiki).
