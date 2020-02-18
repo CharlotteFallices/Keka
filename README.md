@@ -26,5 +26,5 @@
 Keka最开始在[SourceForge](http://sourceforge.net/projects/keka),[Tickets](https://sourceforge.net/p/keka/_list/tickets)中的问题可能会得到答复,但我们主要使用[Issues](https://github.com/CharlotteFallices/Keka/issues/)
 
 后来,感谢[NETWORKREDUX](https://networkredux.com)和 [Trac](https://trac.edgewall.org), 这个项目有了自己的 [ticketing system](https://trac.keka.io).但因为速度和一些问题,我们现在使用 [Issues](https://github.com/CharlotteFallices/Keka/issues)替代它.
-这里还有一些[文档](https://trac.keka.io/wiki/Doc),他们会被逐渐转移到[Wiki](https://github.com/aonez/Keka/wiki).
+这里还有一些[文档](https://trac.keka.io/wiki/Doc),它们会被逐渐转移到[Wiki](https://github.com/aonez/Keka/wiki).
 
